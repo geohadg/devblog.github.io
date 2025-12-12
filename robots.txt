@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geohadg.github.io/devblog/sitemap.xml
