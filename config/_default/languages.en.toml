@@ -15,13 +15,13 @@ title = "Development Blog"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-    name = "D"
+    name = "Donavin"
 #   email = "youremail@example.com"
     image = "img/comp2.png"
     imageQuality = 50
-    headline = "(.)(.)"
+    headline = "I'm here"
 #   bio = "A little bit about you"
-#   links = [
+    links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -35,7 +35,7 @@ title = "Development Blog"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+      { github = "https://github.com/geohadg" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },

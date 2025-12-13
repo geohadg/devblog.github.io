@@ -1,5 +1,6 @@
 ---
 title: Welcome! First Post
+date:
 ---
 
 # Welcome to my development blog!
